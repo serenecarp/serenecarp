@@ -14,6 +14,8 @@
 
 ## ✔ Skills
 
-
+* not yet
 
 ## ✔ Project
+
+* not yet
