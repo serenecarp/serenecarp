@@ -14,10 +14,10 @@
 
 ## ✔ Skills
 
-* not yet
+* a
 
 
 
 ## ✔ Project
 
-* not yet
+* b
