@@ -1,14 +1,1 @@
-## ✔ Profile
 
-
-
-
-## ✔ Skills
-
-* 
-
-
-
-## ✔ Project
-
-* 
